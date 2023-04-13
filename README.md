@@ -8,7 +8,7 @@
 
 运行文件后，按照提示输入要下载的音乐名：
 
-![](C:\Users\86186\Desktop\46a8ff6b86a3f9011d6a4d4400b1e67.png)
+![](https://github.com/Poseidon-fan/-/blob/main/img/p1.png?raw=true)
 
 回车后，会返回酷狗音乐上搜索结果的列表，按照提示选择对应的序号输入即可：
 ![](C:\Users\86186\Desktop\33215ce93108806f8655d5728c2bc29.png)
