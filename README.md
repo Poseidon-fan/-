@@ -11,11 +11,11 @@
 ![](https://github.com/Poseidon-fan/-/blob/main/img/p1.png?raw=true)
 
 回车后，会返回酷狗音乐上搜索结果的列表，按照提示选择对应的序号输入即可：
-![](C:\Users\86186\Desktop\33215ce93108806f8655d5728c2bc29.png)
+![]([C:\Users\86186\Desktop\33215ce93108806f8655d5728c2bc29.png](https://github.com/Poseidon-fan/-/blob/main/img/p2.png?raw=true))
 
 最后会提示下载成功，其.mp3文件会下载到该文件同级目录下：
 
-![](C:\Users\86186\Desktop\002afa18c66b4d13d9a372532e58d97.png)
+![]([C:\Users\86186\Desktop\002afa18c66b4d13d9a372532e58d97.png](https://github.com/Poseidon-fan/-/blob/main/img/p3.png?raw=true))
 
 ## 说明
 
